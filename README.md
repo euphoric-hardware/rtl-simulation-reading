@@ -94,7 +94,8 @@ Academic efforts to create emulation hardware either using an FPGA overlay or mo
 
 - [RTLFlow: From RTL to CUDA: A GPU Acceleration Flow for RTL Simulation with Batch Stimulus](https://dl.acm.org/doi/abs/10.1145/3545008.3545091) (ICPP 22)
 - [Parendi: Thousand-Way Parallel RTL Simulation](https://arxiv.org/abs/2403.04714) (Arxiv Preprint 2024)
-
+- [GPU accelerated RTL simulations with loop unrolling](http://joces.nudt.edu.cn/EN/article/downloadArticleFile.do?attachType=PDF&id=18075)
+    - Can we unroll + use FAME-5 to amortize resource overhead while enabling higher decoupling btw partitions?
 
 ### etc
 
