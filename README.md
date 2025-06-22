@@ -52,6 +52,7 @@ Academic efforts to create emulation hardware either using an FPGA overlay or mo
 - [Performance analysis of a parallel logic simulation machine](https://www.sciencedirect.com/science/article/pii/0743731589900294?) (1989)
 - [Multiple-level partitioning: an application to the very large-scale hardware simulator](https://ieeexplore.ieee.org/abstract/document/78241) (JSSC 1991)
 - [Jim's graph partitioning algorithm lecture](https://people.eecs.berkeley.edu/~demmel/lecture22a_partition_demmel22.pdf)
+- [SimPart - Implementing the RepCut algo on GPUs for faster comp-time](https://tsung-wei-huang.github.io/papers/2025-EuroPar-SimPart.pdf)
 
 ### FireSim ancestors
 
@@ -89,6 +90,8 @@ Academic efforts to create emulation hardware either using an FPGA overlay or mo
 - [On Accelerating PyRTL Simulation with Essential Signal Simulation Techniques](https://ieeexplore.ieee.org/abstract/document/10218453) (ISEDA 23)
 - [Khronos: Fusing Memory Access for Improved Hardware RTL Simulation](https://dl.acm.org/doi/abs/10.1145/3613424.3614301) (MICRO 23)
 - [TaroRTL: Accelerating RTL Simulation using Coroutine-based Heterogeneous Task Graph Scheduling](https://jsm.ece.wisc.edu/docs/lin-europar2024.pdf) (Euro-Par 24)
+- [Don't repeat yourself: dedup](https://scottbeamer.net/pubs/wang-asplos24.pdf) (ASPLOS 24)
+- [RTL Dedup for ML accelerators](https://tsung-wei-huang.github.io/papers/2025-EuroPar-ScaleRTL.pdf) (EuroPar 25)
 
 ### HW-Accelerated (Non-FPGA) RTL Simulation
 
