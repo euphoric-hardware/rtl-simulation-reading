@@ -16,6 +16,10 @@ Custom ASIC-based emulation hardware produced by industry.
 - [ibm logic engine](./resources/emulation/ibm_logic_engine.pdf)
 - [ibm logic engine 2](./resources/emulation/ibm_lse_2.pdf)
 
+### Custom FPGA
+
+- [Meta Emulator](./resources/meta-veloce-ancestor.pdf)
+
 ### FPGA Overlays
 
 FPGA overlay-oriented emulation hardware and techniques for word-level FPGA compilation.
