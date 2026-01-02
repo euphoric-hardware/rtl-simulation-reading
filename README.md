@@ -108,6 +108,9 @@ Academic efforts to create emulation hardware either using an FPGA overlay or mo
 
 - [Rents rule](./RAMP-slides/FPT14_Keynote_MButts_2Dec14.pdf)
 - [Mike butts RTL verification taxonomy](./RAMP-slides/10-2-design-verif-mike-butts-rtl-simulation-taxonomy.pdf)
+- [CTDM: Resource-Efficient FPGA-Accelerated Simulation of Large-Scale NPU Designs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11240632)
+    - Use scan-chains instead of (de)muxes to reduce fan-in/out when (de)serializing IO to the shared comb logic
+    - Also map these as FPGA native shift register primitives (ICCAD 2025)
 
 ---
 
