@@ -19,6 +19,12 @@ Custom ASIC-based emulation hardware produced by industry.
 ### Custom FPGA
 
 - [Meta Emulator](./resources/meta-veloce-ancestor.pdf)
+- [Tabula](./resources/tabula-keynote_steve_teig.pptx)
+    - TDM'd FPGA
+    - Luts are placed in time and space
+    - Routing is also 3-dimensional (i.e X, Y, & Z where Z is through time)
+    - Probably in an interesting idea in a time when FPGA frequency couldn't be pushed to like 500MHz
+    - LUTs can be TDM'd 12 times but I'm not sure if this is a favorable tradeoff - you pay by adding additional state elements & the 12 isn't deep enough to use SRAMs!
 
 ### FPGA Overlays
 
